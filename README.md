@@ -79,6 +79,8 @@ Le modèle suit une architecture en étoile :
 * Table de calendrier dédiée
 * Aucune relation bidirectionnelle
 
+![Le schéma en étoile](screenshots/data_model.png)
+
 ## 📈 Indicateurs clés de performance (KPI)
 
 * Total des sinistres
@@ -90,8 +92,13 @@ Le modèle suit une architecture en étoile :
 
 ## Dashboard 
 
+**Vue exécutive**
 ![Executive View](screenshots/vue_executive.png)
+
+**analyse approndie**
 ![Analysis View](screenshots/analyse_approfondie.png)
+
+**performance experts**
 ![Expert Performance](screenshots/performance_experts.png)
 
 L'analyse montre un portefeuille homogène et stable, avec une performance globale correcte. Les principaux leviers d'amélioration concernent 
